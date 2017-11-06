@@ -20,6 +20,8 @@
     
     NSLog(@"xxx");
     NSLog(@"add nslog 2");
+    
+    NSLog(@"add nslog 3");
 }
 
 
